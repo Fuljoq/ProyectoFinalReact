@@ -2,24 +2,24 @@
     "productos": [
       {
         "id": 1,
-        "nombre": "Vodka",
+        "nombre": "Budweiser",
         "precio": 6500,
         "edadMinima": 18,
-        "imagen": "public/imgs/vodka-skyy.png"
+        "imagen": "/imgs/Budweiser.png"
       },
       {
         "id": 2,
-        "nombre": "Whisky",
+        "nombre": "Corona",
         "precio": 222,
         "edadMinima": 21,
-        "imagen": "public/imgs/whiskey.png"
+        "imagen": "/imgs/Corona.png"
       },
       {
         "id": 3,
-        "nombre": "Cerveza Artesanal",
+        "nombre": "Quilmes",
         "precio": 999,
         "edadMinima": 18,
-        "imagen": "public/imgs/cervezaartesanal.jpg"
+        "imagen": "/imgs/Quilmes.jpg"
       }
     ]
   } 

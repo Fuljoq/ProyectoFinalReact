@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const productosIniciales = [
-  { id: 1, nombre: 'Producto 1', precio: 10.000 },
-  { id: 2, nombre: 'Producto 2', precio: 20.000 },
-  { id: 3, nombre: 'Producto 3', precio: 30.423 },
+  { id: 1, nombre: 'Producto 1', precio: 22.000 },
+  { id: 2, nombre: 'Producto 2', precio: 33.999 },
+  { id: 3, nombre: 'Producto 3', precio: 20.364 },
 ];
 
 const Carrito = () => {
@@ -67,3 +67,4 @@ export default function Home() {
     </div>
   );
 }
+
